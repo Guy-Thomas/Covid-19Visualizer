@@ -12,5 +12,7 @@ The scripts include:
   - Join Data to Country Centroid Shapefile
   - Refactor Attribute Fields and Load a layer style
   
-These scripts work with QGIS, and the resultant project file can be rendered into atime series map with either the Time Manager Plugin, or the native temporal vector layer support that the current development version of QGIS supports (as of May 2020).
+These scripts work with QGIS, and the resultant project file can be rendered into a time series map with either the Time Manager Plugin, or the native temporal vector layer support that the current development version of QGIS supports (as of May 2020).
+
+In addition the PlotlyGraphs script will produce a series of graphs of the market info requested from Yahoo Finance for the given time period.
   
